@@ -11,7 +11,7 @@ const Home = async () => {
       <Links />
       <div className="absolute bottom-5 opacity-50">
         <ExternalLink
-          url="https://github.com/playground1104/about"
+          url="https://github.com/eunwoo1104/about"
           icon={icons.github}
         >
           Source
